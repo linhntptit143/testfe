@@ -1,0 +1,191 @@
+
+.app{
+    
+    background:#ffff;
+    width: 1768px;
+    height: 935px;
+    top: 938px;
+    left: 150px;
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.app{
+    font-family: roboto;
+
+}
+
+
+
+.menu {
+    top:0;
+    bottom: 0;
+    left:0;
+
+}
+#menu ul{
+    background: #191718;
+    width: 150px;
+    height: 935px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0;
+    list-style-type: none;
+
+
+   
+}
+
+#menu ul li{
+    width: auto;t
+
+    line-height: 40px;
+    border-bottom: 1px solid #5c5c5c;
+    padding: 0 1em;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color:#aaaa;
+    font-weight: bold;
+    display: block;
+}
+
+#menu ul li :hover{
+    position: absolute;
+    background:#5c5c5c;
+    color: #ffff;
+    width: 150px;
+    height: 44px;
+    left:8px;
+
+}
+   
+.logo{
+
+    width: 310px;
+    height: 122px;
+    top:958px;
+  
+}
+.logoncc img{
+    margin-left: 729px;
+    margin-top: 20px;
+}
+.row{
+    display: flex;
+
+}
+.tit{
+    margin-left: 129px;
+    background-color: #efefef;
+    width: 1510px;
+    
+    top:1110px;
+    left: 279px;
+}
+
+.title {
+    text-align: center;
+    
+    
+}
+
+.title h3{
+    font-size: 18px;
+    width: 245px;
+    height: 21px;
+    margin-left: 634px;
+    margin-top: 38px;
+}
+
+.title h4  {
+    width: 972px;
+    height: 95px;
+   font: roboto;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 18.75px;
+   text-align: center;
+   margin-left: 269px;
+
+
+}
+
+
+.h3 h3{
+    width: 470px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 129px;
+}
+
+.nd1{
+    margin-left: 16px;
+    width: 470px;
+    height: 252px;
+    margin-top: -24px;
+
+   
+}
+
+.nd1 h4{
+    
+    width: 326px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    
+    
+}
+.img {
+    width: 128px;
+    height: 128px;
+    margin-left: 129px;
+}
+.noidung{
+    
+    display: flex;
+}
+.noidung1 h4{
+    width: 470px;
+    height: 72px;
+    margin-left: 129px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18.75px;
+    margin-top: -95px;
+}
+.text {
+    display: flex;
+    
+}
+.html{
+    margin-left: -225px;
+    
+}
+
+.url{
+    margin-left: -225px;
+}
+.footer{
+    width: 1768px;
+    height: 79px;
+    background:#ffff;
+    margin-top: 182px;
+    
+    
+}
+.footer img{
+    
+    margin-left: 129px;
+    margin-top:30px;
+    
+}
+    
+.body {
+    padding: 0;
+    margin: 0;
+}
